@@ -2,6 +2,12 @@
 
 A Python library for shortening Windows environment variables and paths by finding and replacing repeated patterns with environment variable references.
 
+## DISCLAIMER
+
+This is a work in progress and should not be used in production.
+Be very careful with this tool. Use dry run mode to see what it will do.
+Be sure to back up your environment variables before running this tool.
+
 ## Features
 
 - Shorten environment variables by replacing repeated substrings with references
